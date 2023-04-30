@@ -1,0 +1,104 @@
+{
+  "Banner": [
+    {
+      "id": 1,
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/1218/135107.jpg",
+      "imgBanner": "https://somoskudasai.com/wp-content/uploads/2020/09/portada_mashle.jpg",
+      "title": "Mashle",
+      "genre": "Action,Comedy,Fantasy",
+      "rating": "4.5/5.0",
+      "Deskripsi": "This is a world of magic. This is a world in which magic is casually used by everyone. In a deep, dark forest in this world of magic, there is a boy who is singlemindedly working out. His name is Mash Burnedead, and he has a secret. He can’t use magic. All he wanted was to live a quiet life with his family, but people suddenly start trying to kill him one day and he somehow finds himself enrolled in Magic School. ",
+      "release": "Spring 2023"
+    },
+    {
+      "id": 2,
+      "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150672-2WWJVXIAOG11.png",
+      "imgBanner": "https://somoskudasai.com/wp-content/uploads/2020/09/portada_oshi-no-ko-3.jpg",
+      "title": "Oshi no Ko",
+      "genre": "Drama, Mystery, Psychological",
+      "rating": "4.5/5.0",
+      "Deskripsi": "When a pregnant young starlet appears in Gorou Amemiya’s countryside medical clinic, the doctor takes it upon himself to safely (and secretly) deliver Ai Hoshino’s child so she can make a scandal-free return to the stage.",
+      "release": "Spring 2023"
+    },
+    {
+      "id": 3,
+      "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153452-6aGeSxRw2cxY.jpg",
+      "imgBanner": "https://img.anime2you.de/2020/11/ousama-game.jpg",
+      "title": "Ousama Ranking Season 2nd",
+      "genre": "Action, Adventure, Drama",
+      "rating": "4.7/5.0",
+      "Deskripsi": "Get ready for a new collection of stories from Ranking of Kings!",
+      "release": "Spring 2023"
+    },
+    {
+      "id": 4,
+      "imgUrl": "https://www.readm.org/uploads/chapter_files/cover/tbn/1587291611_198x0.jpg",
+      "imgBanner": "https://vocesabianime.com/wp-content/uploads/2022/09/Anunciado-Anime-de-Yamada-kun-to-Lv999-no-Koi-wo-Suru-768x401.jpg",
+      "title": "Yamada-kun to Lv999 no Koi wo Suru",
+      "genre": "Comed, Drama, Romance",
+      "rating": "4.7/5.0",
+      "Deskripsi": "Recently dumped, Akane is just about to quit the game she used to play with her boyfriend, when she meets Yamada in the same RPG. Yamada in real life turns out to be somewhat of a legend. The only problem is - he is ONLY interested in the game. As Akane's feelings grow, will Yamada's focus stay on the game?",
+      "release": "Spring 2023"
+    },
+    {
+      "id": 5,
+      "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143653-h6NEdWxKIRza.png",
+      "imgBanner": "https://thumb.mghubcdn.com/md/kimi-wa-houkago-insomnia.jpg",
+      "title": "Kimi wa Houkago Insomnia",
+      "genre": "Romance, Slice of Life",
+      "rating": "4.7/5.0",
+      "Deskripsi": "Ganta Nakami is a high school student who suffers from insomnia. One day, he meets Isaki Magari, a girl with the same condition. A strange, but special relationship forms as they share a secret and catch up on their sleep in their school’s abandoned observatory.",
+      "release": "Spring 2023"
+    },
+    {
+      "id": 6,
+      "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151189-1oteiBRjwIzU.png",
+      "imgBanner":"https://www.anmosugoi.com/wp-content/uploads/2021/01/my-home-hero-banner.jpg",
+      "title": "My Home Hero",
+      "genre": "Action,Drama, Thriller",
+      "rating": "4.8/5.0",
+      "Deskripsi": "After killing his daughter’s abusive yakuza boyfriend to save her, ordinary salaryman Tetsuo Tosu becomes embroiled in the dark criminal underworld. The wish for a simple life he and his wife Kasen had for their daughter has been reduced to a wish for survival. Though middle-aged and weak, he’ll put his life on the line using only his wits in order to protect his family.",
+      "release": "Spring 2023"
+    },
+    {
+      "id": 7,
+      "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146065-OVPsmFwRUz7t.jpg",
+      "imgBanner": "https://somoskudasai.com/wp-content/uploads/2020/09/portada_mashle.jpg",
+      "title": "Mashle",
+      "genre": "Action,Comedy,Fantasy",
+      "rating": "4.5/5.0",
+      "release": "Spring 2023",
+      "Deskripsi": "This is a world of magic. This is a world in which magic is casually used by everyone. In a deep, dark forest in this world of magic, there is a boy who is singlemindedly working out. His name is Mash Burnedead, and he has a secret. He cant use magic. All he wanted was to live a quiet life with his family, but people suddenly start trying to kill him one day and he somehow finds himself enrolled in Magic School. "
+    },
+    {
+      "id": 8,
+      "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114129-RLgSuh6YbeYx.jpg",
+       "imgBanner": "https://anidl.org/wp-content/uploads/2021/04/Gintama%C2%B0-Season-04.jpg",
+      "title": "Gintama: The Final",
+      "genre": "Action, Comedy, Drama, Sci-fi",
+      "rating": "4.5/5.0",
+      "release": "Winter 2021",
+      "Deskripsi": "Gintama: THE FINAL is the 3rd and final film adaptation of the remainder of the Silver Soul arc and is the series finale."
+    },
+    {
+      "id": 9,
+      "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124194-pWfBqp3GgjOx.jpg",
+       "imgBanner": "https://mangathrill.com/wp-content/uploads/2019/09/EAJq1bQXsAAkAk51280x720.png",
+      "title": "Fruit Basket: The Final",
+      "genre": "Comedy, Drama, Psychological",
+      "rating": "4.5/5.0",
+      "release": "Spring 2021",
+      "Deskripsi": "After last seasons revelations, the Soma family moves forward, but the emotional chains that bind them are not easily broken. Unable to admit why she wants the cure, Tohru wrestles with the truth, aware that time is running out for someone close. And a secret still lurks that could break anothers heart. But hope is not lost—a clue to the curse is found. Could their imprisonments end be near? Note: This season premiered on Funimation and AnimeLab on March 20, 2021. The Japanese broadcast started two weeks later on April 6, 2021."
+    },
+    {
+      "id": 10,
+      "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130003-5Y8rYzg982sq.png",
+       "imgBanner": "https://ramenparados.com/wp-content/uploads/2021/02/Bocchi-the-Rock-destacado.jpg",
+      "title": "Bocchi the Rock!",
+      "genre": "Comedy, Music, Slice of Life",
+      "rating": "4.5/5.0",
+      "release": "Fall 2022",
+      "Deskripsi": "Hitori Gotou, “Bocchi-chan,” is a girl whos so introverted and shy around people that shed always start her conversations with “Ah...” During her middle school release, she started playing the guitar, wanting to join a band because she thought it could be an opportunity for even someone shy like her to also shine. But because she had no friends, she ended up practicing guitar for six hours every day all by herself."
+    }
+  ]
+}
